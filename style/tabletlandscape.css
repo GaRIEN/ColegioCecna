@@ -1,0 +1,9 @@
+.nav{
+    width: 500px;
+}
+.list-nav{
+  gap: 2px;
+}
+.container-header {
+  height: 600px;
+}
